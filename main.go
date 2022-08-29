@@ -203,7 +203,7 @@ func init() {
 		sus = append(sus, i)
 	}
 
-	// 通过代码写死的方式添加主人账号
+	// 通过代码写死的方式添加主人1账号
 	 sus = append(sus, 2564853559)
 	
 
